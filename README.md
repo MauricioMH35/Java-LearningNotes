@@ -8,4 +8,4 @@ Esse repositório tem como finalidade trazer tudo o que aprendi ou consumi refer
 ## 1.2. Desafios
 ## 1.3. Projetos
 
-2022.05.01
+2022.05.01 MAURICIO MITYO HIDANI
