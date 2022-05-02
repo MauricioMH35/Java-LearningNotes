@@ -5,4 +5,4 @@ Projetos desenvolvidos durante o processo de aprendizagem. Tem como principal fi
 
 # Lista de Diretórios
 
-2022.05.01
+2022.05.01 MAURICIO MITYO HIDANI
